@@ -14,3 +14,10 @@ Assignment 2:
 Use  AI Pair Programmer ( either use claudedev (github), or cursor.so (paid) or Github copilot paid - students discount ) . 
 
 Link: https://youtu.be/tqM4MVt4dO0
+
+
+Assignment 3:
+Assignment 3 : Auto ML with akkio or jadbio or any other good zero code automl - trial version
+Get akkio.com freeaccount,  demonstrate one (or more if you are interested)  end2end ml project in jadbio (no code project) 
+
+Link: https://youtu.be/nsh-bcpn4mg
